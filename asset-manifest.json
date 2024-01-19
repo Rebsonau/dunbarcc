@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/dunbarcc/static/css/main.fa456d9a.css",
+    "main.js": "/dunbarcc/static/js/main.5608b51d.js",
+    "static/js/787.4f523e96.chunk.js": "/dunbarcc/static/js/787.4f523e96.chunk.js",
+    "static/media/background.png": "/dunbarcc/static/media/background.e63c01a688082a3668d7.png",
+    "static/media/logo.svg": "/dunbarcc/static/media/logo.11e75468b684f99ee645e57c22b614ef.svg",
+    "static/media/instagram.svg": "/dunbarcc/static/media/instagram.dd22d5c67517760044d1f2b6b4106f09.svg",
+    "static/media/twitter.svg": "/dunbarcc/static/media/twitter.22e1fd26ceda05e9341b4470671df0d8.svg",
+    "index.html": "/dunbarcc/index.html",
+    "static/media/facebook.svg": "/dunbarcc/static/media/facebook.34444d14fc1581150e4050627d9e93b5.svg",
+    "main.fa456d9a.css.map": "/dunbarcc/static/css/main.fa456d9a.css.map",
+    "main.5608b51d.js.map": "/dunbarcc/static/js/main.5608b51d.js.map",
+    "787.4f523e96.chunk.js.map": "/dunbarcc/static/js/787.4f523e96.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa456d9a.css",
+    "static/js/main.5608b51d.js"
+  ]
+}
