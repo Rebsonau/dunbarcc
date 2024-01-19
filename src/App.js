@@ -1,4 +1,7 @@
-import logo from './logo.svg';
+import logo from './images/logo.svg';
+import facebook from './images/facebook.svg';
+import instagram from './images/instagram.svg';
+import twitter from './images/twitter.svg';
 import './App.css';
 
 function App() {
@@ -7,16 +10,19 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          COMING SOON...
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <div className='Links'>
+          <a href="https://www.facebook.com/p/Dunbar-Cricket-Club-100077822088091/" target="_blank" rel="noopener noreferrer">
+            <img src={facebook} alt="facebook" />
+          </a>
+          <a href="https://www.instagram.com/p/CsEtx1_oJWr/?utm_source=ig_web_copy_link" target='_blank' rel='noopener noreferrer'>
+            <img src={instagram} alt="instagram" />
+          </a>
+          <a href="https://x.com/DunbarCricket?s=20" target='_blank' rel='noopener noreferrer'>
+            <img src={twitter} alt="twitter" />
+          </a>
+        </div>
       </header>
     </div>
   );
